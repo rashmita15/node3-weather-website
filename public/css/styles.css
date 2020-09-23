@@ -53,3 +53,9 @@ button {
     color: white;
     padding: 8px;
 }
+
+.main-content{
+    flex:1;
+    margin-left: 700px;
+    margin-right: auto;
+}
