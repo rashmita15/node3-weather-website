@@ -50,6 +50,12 @@ button {
     cursor: pointer;
     border: 1px solid #888888;
     background: #888888;
-    color: white;
+    color: red;
     padding: 8px;
+}
+
+.main-content{
+    flex:1;
+    margin-left: 700px;
+    margin-right: auto;
 }
